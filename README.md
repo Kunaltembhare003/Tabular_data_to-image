@@ -3,13 +3,9 @@
 This project aims to convert tabular data into images and apply Convolutional Neural Network (CNN) techniques for pattern recognition. The goal is to leverage the power of CNNs, traditionally used for image analysis, to identify patterns and relationships within tabular data.
 
 ## Table of Contents
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (in  the output file unless you use it in)
-[comment]: <> (a reference style link.)
 
 - [Project Description](#project-description)
-[comment]: <> (- [Installation](#installation))
-- [Usage](#usage))
+- [Usage](#usage)
 - [Data](#data)
 - [Model Architecture](#model-architecture)
 - [Training](#training)
