@@ -39,7 +39,7 @@ Explain how to use your project, including any required inputs and expected outp
 
 ## Model Architecture
 
-![Alt text](https://github.com/Kunaltembhare003/Web_scraping/blob/main/image/The%20Allele%20Frequency%20Net%20Database.png)
+![Alt text](https://github.com/Kunaltembhare003/Tabular_data_to-image/blob/main/image/CNN_tabular_data_to_image.jpg)
 
 
 ## Evaluation
